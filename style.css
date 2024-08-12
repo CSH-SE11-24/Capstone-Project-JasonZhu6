@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/* sizing the badges */
+.badges {
+  width: 170px;
+  height: 170px;
+  object-fit: contain;
+  margin: 30px;
+}
+
+/* center the container */
+.container {
+  text-align: center;
+}
+
+body {
+  font-family: "Jost", sans-serif !important;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.indexImg {
+  height: 30vh;
+}
